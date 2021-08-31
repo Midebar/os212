@@ -5,3 +5,4 @@
 ZCZC W00 20 L03 Github Setup
 ZCZC W00 20 L21 Install Ubuntu 20.04 LTS on VMware
 ZCZC W00 40 L28 SSH into VMware Linux
+ZCZC W00 30 L21 Install Debian 11 on VMWare
