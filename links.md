@@ -1,1 +1,1 @@
-"permalink: /LINKS/"
+permalink: /LINKS/
