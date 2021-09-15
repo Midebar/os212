@@ -8,4 +8,4 @@ Install Ubuntu Server (Barebone Ubuntu) on Raspberry Pi 3.
 Ubuntu has capability of supporting ROS packages. Suitable for robot development.
 
 2. [Two](http://wiki.ros.org/noetic/Installation/Ubuntu)<br>
-ROS on Ubuntu.
+ROS on Ubuntu. Use base ros for raspi and dekstop full for remote pc.
