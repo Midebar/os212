@@ -1,4 +1,4 @@
 ## Welcome to my os212 repo
 Here you can view:
 
-| [Home]() | [GH Repo](https://github.com/Midebar/os212) | [Links](LINKS) | [ActivityLogs](/TXT/mylog.txt) |
+| [Home](https://midebar.github.io/os212/) | [GH Repo](https://github.com/Midebar/os212) | [Links](links.md) | [ActivityLogs](/TXT/mylog.txt) |
