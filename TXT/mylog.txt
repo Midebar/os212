@@ -11,3 +11,4 @@ ZCZC W02 30 L27 Generating Public Key
 ZCZC W02 20 L28 Exporting and Importing Key
 ZCZC W02 10 L25 Created script for Checksum
 ZCZC W02 100 L26 Learn C
+ZCZC W03 100 L09 Doing Assignment
