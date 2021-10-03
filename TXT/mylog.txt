@@ -12,3 +12,5 @@ ZCZC W02 20 L28 Exporting and Importing Key
 ZCZC W02 10 L25 Created script for Checksum
 ZCZC W02 100 L26 Learn C
 ZCZC W03 100 L09 Doing Assignment
+ZCZC W04 100 L09 Finished Assignment
+ZCZC W04 60 L07 Checking out Demos
