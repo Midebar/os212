@@ -15,3 +15,5 @@ ZCZC W03 100 L09 Doing Assignment
 ZCZC W04 100 L09 Finished Assignment
 ZCZC W04 60 L07 Checking out Demos
 ZCZC W05 200 L09 doing Assignment
+ZCZC W06 40 L09 Doing Assignment
+ZCZC W06 100 Obersving Assignment
