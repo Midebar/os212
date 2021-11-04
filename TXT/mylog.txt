@@ -18,3 +18,5 @@ ZCZC W05 200 L09 doing Assignment
 ZCZC W06 40 L09 Doing Assignment
 ZCZC W06 100 L09 Observing Assignment
 ZCZC W06 300 L31 Reinstalling Corrupted Linux Files
+ZCZC W07 120 L09 Doing Assignment W07
+ZCZC W07 100 L09 Obrserving Assignment
